@@ -1,3 +1,5 @@
+<?php
+
 $server_key = "SB-Mid-server-dm8_9qFGKyjAqyc3otxLmbfQ";
 
 $is_production = false;
